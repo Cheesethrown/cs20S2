@@ -1,3 +1,15 @@
+/*
+
+Program: excercise1.java          Last Date of this Revision:3/18/2026
+
+Purpose:  an application to find the diameter of pizza and cost
+
+Author: Abdul Asim
+School: CHHS
+Course: Computer Programming 20
+ 
+
+*/
 
 
 package mastery;
@@ -33,3 +45,7 @@ import java.util.Scanner;
 	    }
 	
 	}
+/* Screen Dump
+ Enter the diameter of the pizza (in inches): 5
+The cost of making a pizza with a diameter of 5.00 inches is: $3.00
+ */
