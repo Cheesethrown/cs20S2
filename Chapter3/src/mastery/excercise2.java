@@ -1,3 +1,20 @@
+/*
+
+Program: excercise1.java          Last Date of this Revision:3/19/2026
+
+Purpose:  an application to drop an object and see how many seconds it'll take to touch the ground
+
+Author: Abdul Asim
+School: CHHS
+Course: Computer Programming 20
+ 
+
+*/
+
+
+
+
+
 
 package mastery;	
 
@@ -29,3 +46,12 @@ public class excercise2 {
 
 
 	}
+
+
+
+/* Screen Dump
+
+ Enter the time in seconds thats less than 4.5: 1
+At 1.00 seconds, the object is at a height of 95.10 meters.
+
+*/
