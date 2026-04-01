@@ -1,3 +1,15 @@
+/*
+
+Program: excercise1.java          Last Date of this Revision:4/1/2026
+
+Purpose:  To find the cost of eggs
+
+Author: Abdul Asim
+School: CHHS
+Course: Computer Programming 20
+ 
+
+*/
 package Mastery;
 
 import java.util.Scanner;
@@ -35,3 +47,9 @@ public class Chapter4Excercise3 {
         input.close();
     }
 }
+
+
+/* Screen Dump
+Enter the number of eggs purchased: 6
+The bill is equal to $0.25
+*/

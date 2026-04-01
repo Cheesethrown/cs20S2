@@ -1,4 +1,15 @@
+/*
 
+Program: excercise1.java          Last Date of this Revision:4/1/2026
+
+Purpose:  To find the weight of a package
+
+Author: Abdul Asim
+School: CHHS
+Course: Computer Programming 20
+ 
+
+*/
 package Mastery;
 
 import java.util.Scanner;
@@ -44,4 +55,10 @@ public class Chapter4Excercise2 {
 
 
 	}
-
+/* Screen Dump
+Enter the weight of the package in kilograms: 17
+Enter the length of the package in centimeters: 12
+Enter the width of the package in centimeters: 6
+Enter the height of the package in centimeters: 100
+Package is acceptable.
+*/
