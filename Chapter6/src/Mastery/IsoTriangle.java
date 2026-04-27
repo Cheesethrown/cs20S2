@@ -1,8 +1,16 @@
+/*
 
+Program: IsoTriangle.java          Last Date of this Revision: 4/22/2026
 
+Purpose:Create an IsoTriangle application that prompts the user for the size of an isosceles triangle and then
+displays the triangle with that many lines.
 
+Author: Abdul Asim 
+School: CHHS
+Course: Computer Programming 20
+ 
 
-
+*/
 
 package Mastery;
 
@@ -47,3 +55,21 @@ public class IsoTriangle {
     }
 }
 
+
+/* Screen Dump
+
+Enter the size of the isosceles triangle: 12
+           *
+          ***
+         *****
+        *******
+       *********
+      ***********
+     *************
+    ***************
+   *****************
+  *******************
+ *********************
+***********************
+ 
+ */
